@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/U2_ControlesEjercicioJugador.iml" filepath="$PROJECT_DIR$/U2_ControlesEjercicioJugador.iml" />
+      <module fileurl="file://C:\Users\DIDACT\AndroidStudioProjects\U3_ControlesEjercicioJugador_ejer4\U2_ControlesEjercicioJugador.iml" filepath="C:\Users\DIDACT\AndroidStudioProjects\U3_ControlesEjercicioJugador_ejer4\U2_ControlesEjercicioJugador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/U3_ControlesEjercicioJugador_ejer4.iml" filepath="$PROJECT_DIR$/.idea/U3_ControlesEjercicioJugador_ejer4.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\DIDACT\AndroidStudioProjects\U3_ControlesEjercicioJugador_ejer4\app\app.iml" filepath="C:\Users\DIDACT\AndroidStudioProjects\U3_ControlesEjercicioJugador_ejer4\app\app.iml" />
     </modules>
   </component>
 </project>
